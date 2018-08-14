@@ -8,7 +8,7 @@ layout: default
 
 **Open Help Hours:** M/W/F 1:10-2:00pm in Gilman 1810
 
-**Syllabus:** [Revision 1](./resources/SE421_Fall_2018_Syllabus.pdf)
+**Syllabus:** [Revision 1](resources/SE421_Fall_2018_Syllabus.pdf)
 
 **Teaching Assistants:** TBD
 
