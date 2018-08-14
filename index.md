@@ -44,6 +44,8 @@ layout: default
 
 **Week 10, 10/22 - 10/26:** Web Security
 
+- Friday, October 26, 2018: Last day to drop
+
 **Week 11, 10/29 - 11/02:** Android Security
 
 **Week 12, 11/05 - 11/09:** Threat Modeling + Human-in-the-loop Analysis
