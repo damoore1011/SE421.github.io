@@ -4,4 +4,4 @@ title: Resources
 permalink: /resources/
 ---
 
-TODO
+Coming soon...

@@ -6,13 +6,15 @@ layout: default
 
 **Class Meets:** M/W/F 12:10-1:00pm in Gilman 2354
 
-**Open Help Hours:** M/W/F 1:00-2:00pm in Gilman 2354
+**Open Help Hours:** M/W/F 1:10-2:00pm in Gilman 1810
 
 **Syllabus:** [Revision 1](/resources/SE421_Fall_2018_Syllabus.pdf)
 
 **Teaching Assistants:** TBD
 
-## Course Schedule
+---
+
+# Course Schedule
 
 **Week 01, 08/20 - 08/24:** Course Introduction
 
