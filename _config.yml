@@ -84,3 +84,10 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - Thumbs.db
+  - .DS_Store
+
+  
+  # Include the following files and directories
+include:
+    - resources/
