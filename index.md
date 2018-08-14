@@ -52,13 +52,15 @@ layout: default
 
 **Week 13, 11/12 - 11/16:** Secure Software Development + Penetration Testing
 
+- Final Project Vulnerability Assessment Report Due
+
 **Week 14, 11/19 - 11/23:** Thanksgiving (No Classes)
 
 **Week 15, 11/26 - 11/30:** Final Project Engagement (Attack Phase)
 
 **Week 16, 12/03 - 12/07:** Dead Week, Modern Trends in Program Analysis
 
-- Final Project Report Due
+- Final Project Penetration Test Report Due
 
 **Week 17, 12/10 - 12/14:** Final Exams
 - **Required Final Exam Activity** during two hour period arranged by *First Contact Hour* (see [https://www.registrar.iastate.edu/students/exams/fallexams#stand](https://www.registrar.iastate.edu/students/exams/fallexams#stand))
