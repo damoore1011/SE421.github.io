@@ -58,7 +58,7 @@ layout: default
 
 **Week 15, 11/26 - 11/30:** Final Project Engagement (Attack Phase)
 
-**Week 16, 12/03 - 12/07:** Dead Week, Modern Trends in Program Analysis
+**Week 16, 12/03 - 12/07 (Dead Week):** Modern Trends in Program Analysis
 
 - Final Project Penetration Test Report Due
 
