@@ -18,7 +18,12 @@ layout: default
 
 # Course Schedule
 
-**Week 01, 08/20 - 08/24:** Course Introduction
+## Week 01, 08/20 - 08/24: Course Introduction
+
+- Monday, August 20, 2018
+   - Review: [Syllabus](/resources/SE421_Fall_2018_Syllabus.pdf)
+   - Reading: [Reflections on Trusting Trust](/resources/readings/p761-thompson.pdf)
+   - Assignment: [Assignment 1](#) (due Monday, August 27, 2018 at 12 PM noon)
 
 **Week 02, 08/27 - 08/31:** Binary Exploitation Part 1
 
