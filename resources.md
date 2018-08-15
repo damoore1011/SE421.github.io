@@ -6,7 +6,7 @@ permalink: /resources/
 
 
 ## GitHub
-The course assignments, project, lecture notes, and other materials will be posted on GitHub. Please keep materials distributed via private repositories private. The instructor and teaching assistants will have access to your private git repositories for each assignment in order to better assist you during the course. Developing or releasing assignment solutions in the public impedes the learning of current and future students.
+The course assignments, project, lecture notes, and other materials will be posted on GitHub using a workflow adapted from [GitHub Classroom](https://education.github.com/classroom-report/2018). Please keep materials distributed via private repositories private. The instructor and teaching assistants will have access to your private git repositories for each assignment in order to better assist you during the course. Developing or releasing assignment solutions in the public impedes the learning of current and future students.
 
 *GitHub Organization:* [https://github.com/se421](https://github.com/se421)
 
