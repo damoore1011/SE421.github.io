@@ -33,7 +33,7 @@ The Atlas program analysis framework was chosen because:
 ## Piazza
 A course Piazza discussion board has been setup to allow you to seek help from your peers, teaching assistants, and the instructor. You may discuss approaches to an assignment and provide technical help to peers, but do not directly provide solutions. The chat may also be used to provide class specific feedback to the instructor and teaching assistants.
 
-*Piazza Course:* [piazza.com/iastate/fall2018/softwareengineering421](piazza.com/iastate/fall2018/softwareengineering421)
+*Piazza Course:* [https://piazza.com/iastate/fall2018/softwareengineering421](https://piazza.com/iastate/fall2018/softwareengineering421)
 
 ## Stack Overflow
 For Atlas framework programming questions that have not already been answered by the community you can post a well researched question on Stack Overflow (see [https://stackoverflow.com/help/how-to-ask](https://stackoverflow.com/help/how-to-ask)). When you post the question tag it with the tag "`atlas-pa`" so that users following the tag are alerted to your question. This will not only help you but it will also help your peers having similar problems as well as reduce the overhead of the instructor and teaching assistants having to answer duplicate questions. You can follow recently tagged questions by updating your account preferences at: [https://stackexchange.com/filters](https://stackexchange.com/filters). Finally, don't be afraid to post a link to your question in the Piazza discussion board to get the attention of other students, the teaching assistants, and the instructor.
