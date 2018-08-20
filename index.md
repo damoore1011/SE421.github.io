@@ -23,7 +23,7 @@ layout: default
 - Monday, August 20, 2018
    - Review: [Syllabus](/resources/SE421_Fall_2018_Syllabus.pdf)
    - Reading: [Reflections on Trusting Trust](/resources/readings/p761-thompson.pdf)
-   - Assignment: [Assignment 1](#) (due Monday, August 27, 2018 at 12 PM noon)
+   - Assignment: [Assignment 1](https://github.com/SE421/assignment1) (due Monday, August 27, 2018 at 12 PM noon)
 
 **Week 02, 08/27 - 08/31:** Binary Exploitation Part 1
 
